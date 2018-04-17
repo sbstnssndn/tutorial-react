@@ -1,0 +1,19 @@
+{
+    "courses_list":[
+        { 
+            "id": 1,
+            "name": "Curso uno",
+            "teacher": "Profesor uno"
+        },
+        {
+            "id": 2,
+            "name": "Curso dos",
+            "teacher": "Profesor dos"
+        },
+        {
+            "id": 3,
+            "name": "Curso tres",
+            "teacher": "Profesor tres"
+        }
+    ]
+}
