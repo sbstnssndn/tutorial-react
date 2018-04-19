@@ -32,7 +32,7 @@ const StaticSite = () => (
 
             <hr />
             {/*le asigno las rutas de la url a cada componente (path="" debe coincidir con to="")*/}
-            <Route path="/" component={Home} />
+            <Route exact path="/" component={Home} />
             <Route path="/acerca" component={Acerca} />
             <Route path="/servicios" component={Servicios} />
             <Route path="/contacto" component= {Contacto} />
